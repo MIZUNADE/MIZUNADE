@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?MIZUNADE&color=f2bdbd&label=how+many+meows?)
+![](https://komarev.com/ghpvc/?username=MIZUNADE&label=how+many+meows?&color=f2bdbd)
